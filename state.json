@@ -1,0 +1,20 @@
+{
+   "Acre" : {
+      "Estado" : "Acre",
+	  "Sigla" : "AC",
+	  "Capital" : "Rio Branco",
+	  "Regiao": "Norte"
+   },
+   "Alagoas" : {
+      "Estado" : "Alagoas",
+	  "Sigla" : "AL",
+	  "Capital" : "Maceió",
+	  "Regiao": "Nordeste"
+   },
+   "Amapá" : {
+      "Estado" : "Amapá",
+	  "Sigla" : "AP",
+	  "Capital" : "Macapá",
+	  "Regiao": "Norte"
+   }
+}
